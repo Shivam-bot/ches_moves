@@ -1,0 +1,11 @@
+KING = ['BKing', 'WKing']
+QUEEN = ['BQueen', 'WQueen']
+ROOK = ['BRook', 'WRook']
+BISHOP = ['BBishop', 'WBishop']
+KNIGHT = ['BKnight', 'WKnight']
+PAWN = ['BPawn', 'WPawn']
+WFriend = ['WKing', 'WQueen', 'WRook', 'WKnight', 'WPawn', 'WBishop']
+BFriend = ['BKing', 'BQueen', 'BRook', 'BKnight', 'BPawn', 'BBishop']
+
+ROWS = ['1', '2', '3', '4', '5', '6', '7', '8']
+COLS = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
