@@ -1,5 +1,2 @@
-Django==3.2.6
-django-storages==1.11.1
-djangorestframework==3.12.4
-mysqlclient==2.2.0
-virtualenv==20.13.3
+Django
+djangorestframework
